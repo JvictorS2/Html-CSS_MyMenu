@@ -1,1 +1,1 @@
-# Meu primeiro peojeto com Html e css, espero que goste. =)
+# Meu primeiro projeto com Html e css, espero que goste. =)
